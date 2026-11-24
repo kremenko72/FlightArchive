@@ -54,3 +54,33 @@ Candidate airports to investigate include Belgrade/Surčin, Zagreb/Pleso, Ljublj
 4. Investigate archival sources and contemporary airport/aviation publications for operational corroboration.
 5. Maintain a separate source register and extraction dataset; do not turn schedule listings into confirmed operated flights without evidence.
 
+
+
+## Research update — 24 November 2026
+
+### 6. Adria Airways summer timetable — strong lead located
+- TimetableImages' updates list reports an Adria Airways timetable dated **27 March 1988** added to the collection on 9 November 2026, and lists Adria Airways (1988) among complete timetable collections.
+- Source/update record: https://www.timetableimages.com/ttimages/updates.htm
+- Adria timetable archive: https://timetableimages.com/ttimages/jp.htm
+- Status: **Exact seasonal timetable identified; scan must be inspected/extracted.** The timetable effective from 27 March is seasonally relevant to 25 June, but individual service operation still requires date/day validation and corroboration.
+
+### 7. OAG June 1988 — archival document confirmed
+- The NARA-hosted document packet contains the June 1988 Official Airline Guide, Worldwide Edition, with its index and timetable contents.
+- Source: https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-197/DB23T/128.1DP.pdf
+- Status: **Volume identified and date confirmed; Yugoslav airport pages and relevant listings not yet extracted.**
+
+### 8. 1988 airport statistics — airport coverage expanded
+- The 1988 table lists 20 Yugoslav airports with annual total flights/passengers, including Portorož and Lošinj in addition to the airports already listed.
+- Source: https://aei.pitt.edu/41739/1/A5922.pdf
+- Underlying source cited in report: Federal Statistical Office of Yugoslavia, Statistical Bulletin 1672, *Traffic and Communications*, 1990.
+- Status: **Annual contextual dataset; not daily flight proof.**
+
+### 9. JAT summer 1988 timetable — still a gap
+- AirTimes' JAT system-timetable index and TimetableImages' JAT collection do not currently list a scan for the target summer 1988 period. AirTimes lists October 1987–March 1988 and October 1988–March 1989 editions; TimetableImages likewise shows no 1988 summer edition.
+- Status: **Not located in these collections yet; continue searching other archives and collections.**
+
+## Revised next actions
+1. Extract the Adria Airways 27 March 1988 timetable and identify flights to/from Yugoslav airports relevant to the target date.
+2. Inspect the June 1988 OAG document, locate the airport/city listings for Yugoslavia, and transcribe relevant scheduled services.
+3. Seek a JAT summer 1988 timetable from alternative archival collections, aviation enthusiasts, libraries, or private collections.
+4. Continue cataloguing the 20-airport scope from the 1988 annual statistics; treat inclusion as an airport research candidate, not a confirmed target-date operation.
